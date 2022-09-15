@@ -13,6 +13,18 @@ or use SSH-key:
 ```
 git clone git@github.com:MrKalister/send_message_WhatsApp.git
 ```
+2. Install a virtual environment:
+```
+python -m venv venv
+```
+3. Activate the virtual environment:
+```
+source venv/Scripts/activate
+```
+4. Install PyAutoGUI:
+```
+pip install PyAutoGUI==0.9.53
+```
 ---
 
 ### Author
