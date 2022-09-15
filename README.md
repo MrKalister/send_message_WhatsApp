@@ -25,6 +25,11 @@ source venv/Scripts/activate
 ```
 pip install PyAutoGUI==0.9.53
 ```
+### Use:
+1. Set the recipient's name:
+    name = "Maxim"
+2. Set a message:
+    message = 'new message'
 ---
 
 ### Author
