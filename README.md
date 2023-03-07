@@ -1,6 +1,6 @@
 # send_message_WhatsApp
 ### Description:
-The project send message WhatsApp with use PyAutoGUI.
+Exploring the capabilities of the PyAutoGUI library. The project send message WhatsApp with use PyAutoGUI.
 ### Technologies:
 * Python 3.9.10
 * PyAutoGUI==0.9.53
